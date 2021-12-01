@@ -1,2 +1,2 @@
 # NativeAttacherDebugger
-Code to demonstrate how to user native syscalls to create a debugger
+Code to demonstrate how to use native NT syscalls to create a debugger that attaches to live processes.
